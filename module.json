@@ -3,7 +3,7 @@
   "name": "real-estate-media-and-documents-filament",
   "display_name": "Real Estate Media and Documents Filament",
   "description": "Filament resource for team-scoped media and documents.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\RealEstate\\MediaAndDocumentsFilament\\MediaAndDocumentsFilamentServiceProvider",
   "requires": {
